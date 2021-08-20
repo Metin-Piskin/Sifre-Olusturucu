@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Form1.resources
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre_Oluşturucu.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.exe.config
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.exe
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\bin\Debug\Şifre Oluşturucu.pdb
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.exe
+C:\Users\Metin\source\repos\Metin Form\Şifre Oluşturucu\Şifre Oluşturucu\obj\Debug\Şifre Oluşturucu.pdb
